@@ -18,9 +18,11 @@ The expected basic solution should include:
 - An alternate message if there are no movies to display for a selected genre
 
 Example of basic solution with "Action" selected:
+
 <img src="public/images/action-movies.png" width="400px" alt="Example showing only Action films" />
 
 Example of basic solution with "Romance" selected:
+
 <img src="public/images/romance-movies.png" width="400px" alt="Example showing no matching movies" />
 
 ### Bonus Solution
@@ -30,4 +32,5 @@ Bonus extensions, if completed, should add:
 - The ability to display all movies
 
 Example of extended solution with *"Show All Movies"* selected:
+
 <img src="public/images/all-movies-with-highlight.png" width="400px" alt="Example showing highlighted genre and all movies displayed" />
