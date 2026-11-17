@@ -18,10 +18,10 @@ The expected basic solution should include:
 - An alternate message if there are no movies to display for a selected genre
 
 Example of basic solution with "Action" selected:
-<img width="600" alt="Example showing only Action films" src="https://github.com/user-attachments/assets/8af821ca-f33d-4d1d-9727-94fb98609115" />
+<img src="public/images/action-movies.png" width="400px" alt="Example showing only Action films" />
 
 Example of basic solution with "Romance" selected:
-<img width="600" alt="Example showing no matching movies" src="https://github.com/user-attachments/assets/8c2ddfb2-8f02-4960-848b-82a0c429af88" />
+<img src="public/images/romance-movies.png" width="400px" alt="Example showing no matching movies" />
 
 ### Bonus Solution
 
@@ -30,4 +30,4 @@ Bonus extensions, if completed, should add:
 - The ability to display all movies
 
 Example of extended solution with *"Show All Movies"* selected:
-<img width="600" alt="Example showing highlighted genre and all movies displayed" src="https://github.com/user-attachments/assets/67b4aeb3-8c60-4b06-9524-a96cb156ac8b" />
+<img src="public/images/all-movies-with-highlight.png" width="400px" alt="Example showing highlighted genre and all movies displayed" />
